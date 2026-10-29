@@ -10,3 +10,6 @@ Section: 3.5BSIT
 ## What I learned
 - Compile errors I triggered: CS1002 means that a semicolon is expected but it was missing, CS0103 means that the name of a variable or method does not exist.
 - My prediction for 250 / 4 with int values was 62 and the result was 62 because the int only accepts a whole number which means the decimal part was removed, that is why there is a remainder of 2. However in the exact division its 62.50 because the bill amount was converted into a double.
+
+# Practice git pull
+ - Practice git pull: I have sync my local repos with GitHub.
